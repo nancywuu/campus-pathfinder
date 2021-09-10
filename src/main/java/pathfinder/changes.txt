@@ -1,0 +1,5 @@
+Briefly list any changes you made to your graph class during hw-pathfinder, and why you made those changes.
+
+    I made it a generic class by putting in variable types <N, E> for Node and Edge, respectively. This
+    allows the client to use whatever variable types they want. To adjust my code accordingly, I had
+    to edit a few parts in my marvel test files, MarvelPaths, and graph test files.

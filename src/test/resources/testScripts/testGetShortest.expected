@@ -1,0 +1,28 @@
+created graph simpleGraph
+
+added node A to simpleGraph
+added node B to simpleGraph
+added node C to simpleGraph
+added node D to simpleGraph
+
+added edge 10.000 from A to B in simpleGraph
+added edge 13.000 from A to C in simpleGraph
+added edge 2.000 from B to C in simpleGraph
+added edge 3.000 from C to D in simpleGraph
+added edge 7.000 from B to D in simpleGraph
+
+path from B to D:
+B to C with weight 2.000
+C to D with weight 3.000
+total cost: 5.000
+
+path from A to D:
+A to B with weight 10.000
+B to C with weight 2.000
+C to D with weight 3.000
+total cost: 15.000
+
+path from A to C:
+A to B with weight 10.000
+B to C with weight 2.000
+total cost: 12.000

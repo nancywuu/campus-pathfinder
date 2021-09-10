@@ -1,0 +1,8 @@
+created graph simpleGraph
+
+added node A to simpleGraph
+
+added edge 0.000 from A to A in simpleGraph
+
+path from A to A:
+total cost: 0.000
